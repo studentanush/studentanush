@@ -1,6 +1,6 @@
 <!-- studentanush/README.md -->
 
-<h1 align="center">✨ <b>Anush Jadhav</b></h1>
+<h1 align="center">✨ <b>Anush Hemant Jadhav</b></h1>
 <h3 align="center"><i>Computer Engineering Student | MERN Developer | DevOps Learner</i></h3>
 
 ---
@@ -8,16 +8,16 @@
 ## 📘 About Me
 
 🎓 **Education:** 2<sup>nd</sup> Year B.Tech in Computer Engineering  
-💻 **Stack:** MERN (MongoDB, Express, React, Node.js)  
+💻 **Stack:** MERN (MongoDB, Express, React, Node.js),Typescript,Websocket  
 ☁️ **DevOps:** Learning Docker, GitHub Actions, CI/CD  
 🧠 **Focus Areas:** Web Development, Problem Solving, AI/ML Basics  
-🚀 **Projects:** CCA Management System, Canteen Menu Generator, Finance Tracker  
+🚀 **Projects:** Spotify Clone, Canteen Menu Generator, MindVault  
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages:** Java, JavaScript, TypeScript, HTML, CSS  
+**Languages:** Java, JavaScript, TypeScript,C++ 
 **Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS  
 **Databases:** MongoDB, PostgreSQL  
 **Tools & Platforms:** Git, GitHub, Docker, VS Code, Postman, Linux  
@@ -32,18 +32,6 @@
 
 ---
 
-## 🚧 Projects
-
-### 🔹 CCA Management System  
-A full-stack MERN app for managing co-curricular activities with role-based access, event tracking, and gamification.
-
-### 🔹 Canteen Menu Generator  
-Admin can generate weekly menus (PDF), users can rate meals, and give feedback.
-
-### 🔹 Finance Tracker  
-A simple expense manager built with HTML, CSS, and JS including an “About” page and daily summary.
-
----
 
 ## 📊 GitHub Stats
 
