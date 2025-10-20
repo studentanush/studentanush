@@ -4,7 +4,8 @@
 <h3 align="center"><i>💻 Computer Engineering Student | MERN Developer | DevOps Learner</i></h3>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+ <img src="https://github.com/studentanush/studentanush/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
 </p>
 
 ---
