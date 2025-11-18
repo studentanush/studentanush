@@ -3,9 +3,9 @@
 <h1 align="center">✨ <b>Anush Hemant Jadhav</b></h1>
 <h3 align="center"><i>💻 Computer Engineering Student | MERN Developer | DevOps Learner</i></h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=studentanush&theme=tokyo-night" />
-</p>
+</p> -->
 
 
 ---
