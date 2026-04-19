@@ -1,7 +1,7 @@
 <!-- studentanush/README.md -->
 
 <h1 align="left">✨ <b>Anush Hemant Jadhav</b></h1>
-<h3 align="center"><i>💻 Computer Engineering Student | MERN Developer | DevOps Learner</i></h3>
+<h3 align="left"><i>💻 Computer Engineering Student | MERN Developer | DevOps Learner</i></h3>
 
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=studentanush&theme=tokyo-night" />
