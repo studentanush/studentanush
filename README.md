@@ -1,20 +1,14 @@
-<div align="center">
-
 # Anush Hemant Jadhav
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;MERN+Stack+Developer;AI+Integration+Enthusiast;DevOps+%7C+WebSockets+%7C+RAG+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=4FC3F7&vCenter=true&width=500&lines=Computer+Engineering+Student;MERN+Stack+Developer;AI+Integration+Enthusiast;DevOps+%7C+WebSockets+%7C+RAG+Pipelines" alt="Typing SVG" />
 </a>
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anush-jadhav-a97074285/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/studentanush)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aj21122006@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=studentanush&label=Profile+Views&color=4FC3F7&style=flat-square" alt="Profile Views" />
-
-</div>
 
 ---
 
@@ -75,9 +69,15 @@ I'm a Computer Engineering student passionate about crafting full-stack experien
 
 ---
 
-## GitHub Stats
+## Currently Building
 
-<div align="center">
+- Real-time collaborative apps using WebSockets and event-driven architecture
+- RAG pipelines and multi-agent orchestration workflows
+- Automated CI/CD pipelines with GitHub Actions and Docker
+
+---
+
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=studentanush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=C9D1D9" height="170em" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=studentanush&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7" height="170em" />
@@ -86,22 +86,6 @@ I'm a Computer Engineering student passionate about crafting full-stack experien
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=studentanush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=C9D1D9" height="150em" />
 
-</div>
-
 ---
-
-## Currently Building
-
-```text
-Real-time Systems     ████████████░░░░  WebSockets & Event-Driven Architecture
-AI Integration        ████████░░░░░░░░  RAG Pipelines & Multi-Agent Orchestration
-DevOps                ██████████░░░░░░  CI/CD with GitHub Actions & Docker
-```
-
----
-
-<div align="center">
 
 *"Ship fast, learn faster, iterate always."*
-
-</div>
